@@ -5,6 +5,7 @@
 ## Samples
 
 - [01_kind_of_data](01_kind_of_data.py);
+- [02_read_and_write_tabular_data](02_read_and_write_tabular_data.py);
 
 ## Environment setup
 
