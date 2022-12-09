@@ -4,7 +4,7 @@
 
 ## Samples
 
-- [01_kind_of_data](01_kindpip_of_data.py);
+- [01_kind_of_data](01_kind_of_data.py);
 
 ## Environment setup
 
