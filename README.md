@@ -10,6 +10,7 @@
 - [04_create_plots_in_pandas](04_create_plots_in_pandas.py)
 - [05_create_new_columns_derived_from_existing](05_create_new_columns_derived_from_existing.py)
 - [06_calculate_summary_statistics](06_calculate_summary_statistics.py)
+- [07_reshape_layout_of_tables](07_reshape_layout_of_tables.py)
 
 ## Environment setup
 
@@ -18,7 +19,7 @@
 - pip3 install openpyxl
 - python3 -m pip install --upgrade pip
 - python3 -m pip install --upgrade Pillow
-  oppure pip3 install --upgrade Pillow
+  oppure pip install --upgrade Pillow
 - pip install matplotlib
 
 - pip freeze > requirements.txt
