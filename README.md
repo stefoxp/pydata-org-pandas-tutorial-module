@@ -11,6 +11,7 @@
 - [05_create_new_columns_derived_from_existing](05_create_new_columns_derived_from_existing.py)
 - [06_calculate_summary_statistics](06_calculate_summary_statistics.py)
 - [07_reshape_layout_of_tables](07_reshape_layout_of_tables.py)
+- [08_combine_data_from_multiple_tables](08_combine_data_from_multiple_tables.py)
 
 ## Environment setup
 
