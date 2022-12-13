@@ -24,6 +24,6 @@
 - python3 -m pip install --upgrade Pillow
   oppure pip install --upgrade Pillow
 - pip install matplotlib
-
 - pip freeze > requirements.txt
+
 - pip install -r requirements.txt
